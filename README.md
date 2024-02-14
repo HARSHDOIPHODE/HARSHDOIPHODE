@@ -1,7 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)]
 <h1 align="center">Hi 👋, I'm Harsh Doiphode</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
+<img align="![image](https://github.com/HARSHDOIPHODE/HARSHDOIPHODE/assets/98657818/44608c5d-d7fa-4908-8ccd-2bf300d2de0c)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdoiphode&label=Profile%20views&color=0e75b6&style=flat" alt="harshdoiphode" /> </p>
 
